@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Endava Books</string>
     <string name="action_settings">Settings</string>
+    <string name="entrarText">Entrar</string>
+    <string name="titleEndava">Endava</string>
+    <string name="titleBooks">Books</string>
 </resources>
