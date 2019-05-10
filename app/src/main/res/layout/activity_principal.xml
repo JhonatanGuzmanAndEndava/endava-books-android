@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimary"
+    android:background="@drawable/endavabackground2"
     tools:context=".MainActivity">
 
     <TextView
@@ -59,11 +59,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
         android:background="@drawable/button_soft_corners"
+        android:onClick="showListBook"
+        android:radius="20dp"
         android:text="@string/entrarText"
         android:textColor="@android:color/white"
         android:textSize="14sp"
         android:textStyle="bold"
-        android:radius="20dp"
         app:fontFamily="@font/arial"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
