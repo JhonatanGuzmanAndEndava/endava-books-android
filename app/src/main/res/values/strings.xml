@@ -5,4 +5,7 @@
     <string name="entrarText">Entrar</string>
     <string name="titleEndava">Endava</string>
     <string name="titleBooks">Books</string>
+    <string name="publishers">Publishers</string>
+    <string name="authors">Authors</string>
+    <string name="bookImage">Book cover</string>
 </resources>
